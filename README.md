@@ -25,7 +25,7 @@ If the user wants to see the past search city weather condition again, just clic
 ### Screenshots
 
 1. Run file index.html
-
+![weather1](https://github.com/user-attachments/assets/fbda6087-3540-4d8e-9cc7-a0dc9a35cce5)
 2. Enter any city
-
+![weather2](https://github.com/user-attachments/assets/063f4724-d692-4cc2-91e9-9d333875a44c)
 Developed by: **Md Aamir Hussain**
